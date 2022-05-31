@@ -1,4 +1,13 @@
 
 body{
-    background-color: rgb(119, 216, 241);
+    background-image: url(https://estaticos.muyinteresante.es/uploads/images/gallery/5f9a9dec5bafe87eb4bbcf9f/1-nubes-en-el-cielo.jpg);
 }
+header{
+    text-align: center;
+    font-size: 30px;
+}    
+nav{
+    text-align: end;
+    padding: 100px;
+    text-decoration: none;
+}     
