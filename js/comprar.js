@@ -10,3 +10,10 @@ function costoHotel (cantidadNoches, costoNoche) {
 
 
 costoHotel (cantidadNoches, costoNoche);
+
+let boton =
+document.getElementById ("btnprincipal")
+boton.addEventListener("comprar", respuestaComprar)
+function respuestaComprar () {
+    console.log ("repuesta Evento");
+}
